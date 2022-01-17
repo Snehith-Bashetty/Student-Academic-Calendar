@@ -1,5 +1,5 @@
 # Student-Academic-Calendar
-## Description of main modules
+## DESCRIPTION OF MAIN MODULES
 Based on the use cases, we have implemented this project by dividing the work into modules – Login,Add Event, Insert Event, Updating Event, Delete Event, View Event.
 
 ### LOGIN
